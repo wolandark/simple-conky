@@ -1,10 +1,11 @@
-Installation and requierments:
+{h1} Installation and requierments:
 
 you must have conky installed either from your package manager or from Github.
 place the conky.conf in this path:
 ~/.config/conky/conky.conf
 
 Autostarting
+
 add it to your .xinitrc or use your DE's autostart function 
 you can simply type conky in your terminal to launch it
 
