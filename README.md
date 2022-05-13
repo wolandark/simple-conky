@@ -16,3 +16,4 @@ run nproc in a terminal to see how many cores you have (may need sudo)
 this is a minimal conky config that I wrote for my bwm session.
   
 enjoy </h3>
+![image](https://user-images.githubusercontent.com/89324173/168190166-cb1928b4-846f-4378-8893-cf2a6ca0d214.png)
