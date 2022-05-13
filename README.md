@@ -1,4 +1,4 @@
-{h1} Installation and requierments:
+<h1>Installation and requierments:</h1>
 
 you must have conky installed either from your package manager or from Github.
 place the conky.conf in this path:
