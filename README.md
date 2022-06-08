@@ -1,6 +1,8 @@
 <h4>Installation and requierments:</h4>
 
-<p>you must have conky installed either from your package manager or from Github.
+<p>you must have conky installed either from your package manager or from Github. You should also have a compositor like picom for the transparency
+  effect. Otherwise it will be plain black!
+  
 place the conky.conf in this path:
 ~/.config/conky/conky.conf </p>
 
