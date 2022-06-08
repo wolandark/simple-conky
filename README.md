@@ -1,8 +1,8 @@
 <h1>Installation and requierments:</h1>
 
-<h3>you must have conky installed either from your package manager or from Github.
+<p>you must have conky installed either from your package manager or from Github.
 place the conky.conf in this path:
-~/.config/conky/conky.conf </h3>
+~/.config/conky/conky.conf </p>
 
 <h1>Autostarting</h1>
 
