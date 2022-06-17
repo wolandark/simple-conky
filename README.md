@@ -18,4 +18,5 @@ run nproc in a terminal to see how many cores and threads you have (may need sud
 this is a minimal conky config that I wrote for my DWM session. There is nothing fancy about it. It just monitors the system resources and reports in a simple visual manifestation. 
   
 enjoy </p>
+![image](https://github.com/wolandark/simple-conky/blob/main/conky.png)
 ![image](https://user-images.githubusercontent.com/89324173/168190166-cb1928b4-846f-4378-8893-cf2a6ca0d214.png)
